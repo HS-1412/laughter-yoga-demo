@@ -1,0 +1,8 @@
+node_modules/
+.next/
+out/
+build/
+.env*.local
+*.zip
+build-zip.mjs
+laughter-yogi-demo/
